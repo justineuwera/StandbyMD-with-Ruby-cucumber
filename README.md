@@ -13,14 +13,15 @@
 - Mac OS: https://rvm.io/
 2. Install Cucumber using the following command-line command:
 
-      `$ gem install cucumber`
+       $ gem install cucumber
  
 3. Initialize Cucumber by using the following command-line command:
 
-       ` $ gem init cucumber`
+       $ gem init cucumber
+       
 4. Install Watir using the following command-line command:
 
-       ` $ gem install watir `
+        $ gem install watir 
 5. Install Webdrivers using the following command-line command:
 
        ` $ gem install webdrivers`
@@ -42,11 +43,12 @@ $ cd StandByMD_Project
 
 To run all feature files:
 
-                 `$ cucumber`  
+                 $ cucumber  
 
 To run a specific feature file:
 
-            $ cucumber features/<feature File Name.feature> 
+            $ cucumber features/<feature File Name.feature>
+            
             Example: $ cucumber features/login_client.feature
 
 ## Target Environment Selection
@@ -55,7 +57,8 @@ We are using the following environment:
 
 * `Staging environment`
 
-             `Link :https://standbymd-qa3.globalexcel.com/#!`
+             Link :https://standbymd-qa3.globalexcel.com/#!
+             
 * `Username: qa1@globalexcel.com`
 * `Password: Ask the Administator `
 
