@@ -30,8 +30,8 @@
        `$ gem install page-object`
 7. Download either Visual Studio Code or RubyMine from the links below
 and Install it:
-- https://code.visualstudio.com/
-- https://www.jetbrains.com/fr-fr/ruby/
+   - https://code.visualstudio.com/
+   - https://www.jetbrains.com/fr-fr/ruby/
 
 ## Install Dependencies
 
