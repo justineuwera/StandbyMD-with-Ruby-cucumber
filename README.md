@@ -8,18 +8,24 @@
 ## Initial Setup
 
 1. Install Ruby via
+
 - Windows OS: https://rubyinstaller.org/downloads/
 - Mac OS: https://rvm.io/
 2. Install Cucumber using the following command-line command:
+
       `$ gem install cucumber`
  
 3. Initialize Cucumber by using the following command-line command:
+
        ` $ gem init cucumber`
 4. Install Watir using the following command-line command:
+
        ` $ gem install watir `
 5. Install Webdrivers using the following command-line command:
+
        ` $ gem install webdrivers`
 6. Install Page-object by using the following command-line command:
+
        `$ gem install page-object`
 7. Download either Visual Studio Code or RubyMine from the links below
 and Install it:
@@ -35,6 +41,7 @@ $ cd StandByMD_Project
 ## Specification Execution
 
 To run all feature files:
+
                  `$ cucumber`  
 
 To run a specific feature file:
@@ -47,7 +54,8 @@ To run a specific feature file:
 We are using the following environment:
 
 * `Staging environment`
-  *`Link :https://standbymd-qa3.globalexcel.com/#!`
+
+             `Link :https://standbymd-qa3.globalexcel.com/#!`
 * `Username: qa1@globalexcel.com`
 * `Password: Ask the Administator `
 
